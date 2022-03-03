@@ -16,7 +16,7 @@ class Experiment13
 
 	     int n = m.length();
 
-	     m= m.toLowerCase();
+	    // m= m.toLowerCase();
 
 	System.out.println("Enter the character to be searched");
 
