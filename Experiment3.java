@@ -23,11 +23,11 @@ public class Experiment3 {
 
 	        }
 
-	        System.out.printf("Enter the added element:\n ");
+	        System.out.printf("Enter the element to be inserted:\n");
 
 	        int b = obj.nextInt();
 
-	        System.out.printf("Enter the needed index: \n");
+	        System.out.printf("Enter the position to insert element: \n");
 
 	        int index = obj.nextInt();
 
